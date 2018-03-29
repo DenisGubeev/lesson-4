@@ -9,7 +9,7 @@ if (empty($city_id)) {
     $city_id = $id_default;
 };
 $api = file_get_contents("http://api.openweathermap.org/data/2.5/weather?id=" . $city_id . "&appid=" . $appid);
-$city_list_file = file_get_contents("city.list.json");
+$city_list_file = file_get_contents("listOfCities.json");
 $decode_api = json_decode($api, true);
 $decode_city = json_decode($city_list_file, true);
 
