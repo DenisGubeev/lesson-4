@@ -9,12 +9,12 @@
     }
   },
   {
-    "id": 1497337,
-    "name": "Norilsk",
-    "country": "RU",
+    "id": 1619460,
+    "name": "Bangkok Noi",
+    "country": "TH",
     "coord": {
-      "lon": 88.202698,
-      "lat": 69.3535
+      "lon": 100.477982,
+      "lat": 13.76266
     }
   },
   {
@@ -33,6 +33,15 @@
     "coord": {
       "lon": 2.35236,
       "lat": 48.856461
+    }
+  },
+  {
+    "id": 1880251,
+    "name": "Republic of Singapore",
+    "country": "SG",
+    "coord": {
+      "lon": 103.800003,
+      "lat": 1.36667
     }
   },
   {
